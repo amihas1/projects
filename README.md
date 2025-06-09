@@ -22,6 +22,7 @@ Below, you’ll find a summary of the projects included in this repository. Clic
 
 #### How to Run:
 - download the project folder (projects/ToDoList_React) from this repo, and then proceed to the downloaded folder on a terminal session on your local computer
+- to install the missing dependencies, you can enter 'npm install'
 - once in the folder, use the following command: `npm run dev`
 - the terminal will display the localhost address (such as `http://localhost:5173`), open up your internet browser and enter that address
 
