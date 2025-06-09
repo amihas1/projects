@@ -40,6 +40,7 @@ To run the application, you need to have Node.js and npm installed on your compu
 # Distributed Chat Application
 - designed and implemented a simulated distributed chat system enabling multiple users to communicate across independently hosted chat sessions.
 - each chat session operates on its own server, with support for seamless user switching between active chat rooms
+- this was a class project from school, you can read an in-depth report here: https://drive.google.com/file/d/1PRt1Zxs9eKrcB4apPpt4LrWjlpB29yOP/view 
 - Technologies Used: Python, gRPC, Tkinter
 
 #### How to Run:
