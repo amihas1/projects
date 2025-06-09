@@ -21,7 +21,7 @@ Below, you’ll find a list of the projects included in this repository. Click o
 - <u>Technologies Used</u>: React, JavaScript, HTML, CSS
 
 #### How to Run:
-- download the project folder from this repo, and then proceed to the downloaded folder on a terminal session on your local computer
+- download the project folder (projects/ToDoList_React) from this repo, and then proceed to the downloaded folder on a terminal session on your local computer
 - once in the folder, use the following command: `npm run dev`
 - the terminal will display the localhost address (such as `http://localhost:5173`), open up your internet browser and enter that address
 
@@ -42,7 +42,7 @@ To run the application, you need to have Node.js and npm installed on your compu
 - Technologies Used: Python, gRPC, Tkinter
 
 #### How to Run:
-- download the project folder from this repo, and then proceed to the folder on a terminal session
+- download the project folder (projects/DistributedChatApp) from this repo, and then proceed to the folder on a terminal session
 - note that you will need a separate terminal session for each client and each server
 - to start the server, enter `python server.py` (on some computers, you may have to use `python3` instead)
 - to start the client, enter `python client.py` (on some computers, you may have to enter `python3` instead)
