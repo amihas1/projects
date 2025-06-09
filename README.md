@@ -3,7 +3,7 @@
 # Welcome
 Thank you for taking the time to explore some of my favourite completed projects.  
   
-Below, you’ll find a list of the projects included in this repository. Click on any of the links to jump to the corresponding section on this page:
+Below, you’ll find a summary of the projects included in this repository. Click on any of the links to jump to the corresponding summary on this page. 
 
 [To-Do List Web Application](#to-do-list-web-application)  
 [Distributed Chat Application](#distributed-chat-application)
